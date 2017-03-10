@@ -1,0 +1,74 @@
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Experiment.exe.config
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Experiment.exe
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Experiment.pdb
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.exe
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\obj\Debug\Experiment.pdb
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Mono.Cecil.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Mono.Cecil.Mdb.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Mono.Cecil.Pdb.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Mono.Cecil.Rocks.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\NuGet.Squirrel.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Splat.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Squirrel.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\NuGet.Squirrel.pdb
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Squirrel.pdb
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\Pvc.Core.dll
+D:\VisualStudioTest\InstallerTestDemo\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Experiment.exe.config
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.exe
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.pdb
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Experiment.exe
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Experiment.pdb
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Mono.Cecil.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Pvc.Core.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Splat.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Squirrel.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\Squirrel.pdb
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+C:\Users\Oxygen\Desktop\WORK\Immersive Project\WorkProjects\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Experiment.exe.config
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.exe
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.pdb
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Experiment.exe
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Experiment.pdb
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Mono.Cecil.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\NuGet.Squirrel.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Pvc.Core.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Splat.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Squirrel.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Squirrel.pdb
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug\Newtonsoft.Json.xml

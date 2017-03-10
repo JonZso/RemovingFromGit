@@ -1,0 +1,264 @@
+{
+  "Settings": [
+    {
+      "Value": true,
+      "Type": "BoolSetting",
+      "Name": "Play background music",
+      "LocaleName": ""
+    },
+    {
+      "Value": 5,
+      "Min": 1,
+      "Max": 10,
+      "Type": "IntSetting",
+      "Name": "Volume",
+      "LocaleName": ""
+    },
+    {
+      "Value": true,
+      "Type": "BoolSetting",
+      "Name": "Debug",
+      "LocaleName": ""
+    },
+    {
+      "Value": 1.0,
+      "Min": 0.0,
+      "Max": 1.0,
+      "Type": "FloatSetting",
+      "Name": "CircleAlpha",
+      "LocaleName": ""
+    },
+    {
+      "Value": 10,
+      "Min": 0,
+      "Max": 600,
+      "Type": "IntSetting",
+      "Name": "Game Length",
+      "LocaleName": ""
+    },
+    {
+      "Value": 5,
+      "Min": 0,
+      "Max": 30,
+      "Type": "IntSetting",
+      "Name": "Time between games",
+      "LocaleName": ""
+    },
+    {
+      "Value": 400,
+      "Min": 1,
+      "Max": 1000,
+      "Type": "IntSetting",
+      "Name": "Number of particles",
+      "LocaleName": ""
+    },
+    {
+      "Value": 5,
+      "Min": 1,
+      "Max": 10,
+      "Type": "IntSetting",
+      "Name": "scatter speed",
+      "LocaleName": ""
+    },
+    {
+      "Value": 10,
+      "Min": 1,
+      "Max": 10,
+      "Type": "IntSetting",
+      "Name": "return delay",
+      "LocaleName": ""
+    },
+    {
+      "Value": "Scatter",
+      "Options": [
+        "Return",
+        "Scatter"
+      ],
+      "Type": "StringSetting",
+      "Name": "Mode",
+      "LocaleName": ""
+    }
+  ],
+  "Images": [
+    {
+      "Name": "Background",
+      "Path": "Assets/gb.jpg",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 1",
+      "Path": "assets/a.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 2",
+      "Path": "assets/b.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 3",
+      "Path": "assets/c.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 4",
+      "Path": "assets/d.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 5",
+      "Path": "assets/e.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 6",
+      "Path": "assets/f.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 7",
+      "Path": "assets/g.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle h",
+      "Path": "assets/h.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 9",
+      "Path": "assets/i.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 10",
+      "Path": "assets/j.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 11",
+      "Path": "assets/k.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 12",
+      "Path": "assets/l.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 13",
+      "Path": "assets/m.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 14",
+      "Path": "assets/n.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 15",
+      "Path": "assets/o.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 16",
+      "Path": "assets/p.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 17",
+      "Path": "assets/q.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 18",
+      "Path": "assets/r.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 19",
+      "Path": "assets/s.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 20",
+      "Path": "assets/t.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 21",
+      "Path": "assets/u.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 22",
+      "Path": "assets/v.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 23",
+      "Path": "assets/w.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 24",
+      "Path": "assets/x.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 25",
+      "Path": "assets/y.png",
+      "LocaleName": "",
+      "Hint": ""
+    },
+    {
+      "Name": "particle 26",
+      "Path": "assets/z.png",
+      "LocaleName": "",
+      "Hint": ""
+    }
+  ],
+  "Animations": [],
+  "Videos": [],
+  "Sounds": [
+    {
+      "Name": "background",
+      "Path": "assets/ABC Song.mp3",
+      "LocaleName": "",
+      "Hint": ""
+    }
+  ],
+  "Text": [
+    {
+      "Key": "Intro",
+      "Value": "Alphabet",
+      "LocaleKey": ""
+    }
+  ],
+  "AssetsPath": "C:\\Package\\App\\App\\Apps\\Floor\\Alphabet\\Alphabet"
+}

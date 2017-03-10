@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <add key="port" value="3333"/>
+    <add key="LauncherPath2" value="..\App\App\Player\Immersive Player.exe"/>
+    <add key="LauncherPath" value="C:\Users\ImmersiveJon\Documents\_Git\Test\Experiment\Experiment\bin\Debug"/>    
+  </appSettings>
+ <startup><supportedRuntime version="v4.0" sku =".NETFramework,Version=v4.0"/></startup></configuration>
+              
